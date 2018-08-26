@@ -26,4 +26,5 @@ return n;
 }
 function makeInt(n){
   parseInt ('1234', 10)
+  return n;
 }
