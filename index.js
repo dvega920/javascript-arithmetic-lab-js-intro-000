@@ -25,6 +25,6 @@ parseInt ('n', 10)
 return n;
 }
 function makeInt(n){
-  parseInt ('1234', 10)
+  parseInt ('1234')
   return n;
 }
